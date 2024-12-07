@@ -29,7 +29,7 @@ Before running the application, make sure you have:
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository/Extracted ZIP file
 
 ```bash
 git clone https://github.com/zmn17/contact-app
@@ -40,10 +40,10 @@ cd contacts-app
   npm install
 
 3. Running the application
-
-  npm run dev
-  Open your browers and navigate to 'http://localhost:5173'
-
+  3a. Start the development server
+    npm run dev
+  3b. Navigate to local server
+    Open your browers and navigate to 'http://localhost:5173'
 
 ## Dependencies
 - React
