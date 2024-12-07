@@ -6,7 +6,8 @@ A modern contact management application built with React and Vite.js, featuring 
 
 - https://z-contact.netlify.app
 
-![App Screenshot Placeholder]
+![Dark Mode](./src/assets/darkmode.png)
+![Light Mode](./src/assets/lightmode.png.png)
 
 ## Features
 
